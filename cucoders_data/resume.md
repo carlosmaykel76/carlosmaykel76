@@ -18,15 +18,10 @@ Informático.
 - Ingeniero Informático, 2002
 - Breve descripción de materias y proyecto final
 
-### Universidad, Ciudad
-- Titulo obtenido, año de graduación
-- Breve descripción de materias y proyecto final
-
 ## 💼 Experiencia laboral
 
-### Empresa, Ciudad
-- Puesto, años de experiencia
-- Descripción detallada de responsabilidades y logros
+### Empresa Telecomunicaciones de Cuba, Ciego de Avila
+- Administrador de Redes LAN, 13 año
 
 ### Empresa, Ciudad
 - Puesto, años de experiencia
