@@ -14,8 +14,8 @@ Informático.
 
 ## 🎓 Educación
 
-### Universidad, Ciudad
-- Titulo obtenido, año de graduación
+### Universidad Tecnológica de La Habana, CUJAE, La Habana
+- Ingeniero Informático, 2002
 - Breve descripción de materias y proyecto final
 
 ### Universidad, Ciudad
