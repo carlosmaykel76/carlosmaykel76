@@ -39,6 +39,7 @@ Informático.
 
 ## 🌎 Idiomas
 
-- Nivel de habilidad en idioma (e.g. Bilingue, Nativo, Avanzado, Intermedio, Básico)
+- Español (Nativo)
+- Ingles (Basico)
 
 ## 🔗 Referencias disponibles a petición
