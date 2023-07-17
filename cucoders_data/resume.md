@@ -23,9 +23,14 @@ Informático.
 ### Empresa Telecomunicaciones de Cuba, Ciego de Avila
 - Administrador de Redes LAN, 13 año
 
-### Empresa, Ciudad
-- Puesto, años de experiencia
-- Descripción detallada de responsabilidades y logros
+### TELEMATEL, Esapaña
+- Programador Junior, 1 años de experiencia
+- Desarrollo de aplicaciones para Front-End. React JS, Material UI, JSON.
+
+### Birtum, Mexico
+- Programador Junior, 2 años de experiencia
+- Análisis y diseño de soluciones en Odoo.
+- Desarrollo de aplicaciones para Odoo.
 
 ## 💻 Habilidades
 
